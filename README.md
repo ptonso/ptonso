@@ -1,20 +1,22 @@
 ### ptonso
 
-Projects at the edge of statistics, neuroscience, and deep learning 🧠  
-Working with reinforcement learning, computer vision, and latent representations.
+projects at the edge of statistics, neuroscience, and deep learning 🧠  
+working with reinforcement learning, computer vision, and latent representations.
 
-Things I'm building:
+things I'm building:
 - real-time homography estimation for sports (CV)
 - interpretable RL with variational autoencoders and decision trees
 - tucker-based CNN compression
 - robotics on Raspberry Pi with camera + motor IO
 - parallel backup system with deduplication and SQLite
 
-Also exploring sound design, signal processing, and cognitive modeling 🎛️
+### 📬 how to reach me: 
+- 📧 email: `ptonso [at] usp [dot] br`
+- <a href="https://www.linkedin.com/in/pedro-fernandez-tonso-710b91220/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" height="18" alt="LinkedIn"/></a> [LinkedIn](https://www.linkedin.com/in/pedro-fernandez-tonso-710b91220/)
 
 ---
 
-### tech stack
+### 🛠 tech stack
 
 <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python"/></a>
 <a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="24" alt="PyTorch"/></a>
@@ -27,3 +29,6 @@ Also exploring sound design, signal processing, and cognitive modeling 🎛️
 <a href="https://isocpp.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="24" alt="CPP"/></a>
 
 <!-- <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="24" alt="Docker"/></a> -->
+
+---
+
