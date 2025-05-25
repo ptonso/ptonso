@@ -30,5 +30,3 @@ things I'm building:
 
 <!-- <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="24" alt="Docker"/></a> -->
 
----
-
