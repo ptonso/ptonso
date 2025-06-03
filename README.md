@@ -1,7 +1,11 @@
 ### ptonso
 
-projects at the edge of statistics, neuroscience, and deep learning 🧠  
+<h1 align="center">ptonso</h1>
+projects at the edge of statistics, neuroscience, and deep learning 🧠
 working with reinforcement learning, computer vision, and latent representations.
+
+
+
 
 things I'm building:
 - real-time homography estimation for sports (CV)
