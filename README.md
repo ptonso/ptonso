@@ -6,10 +6,11 @@ projects at the edge of statistics, neuroscience, and deep learning 🧠
 working with reinforcement learning, computer vision, and latent representations.
 
 things I'm building:
+- dashboard explanation for tree-ensemble models
+- deep-learning based ocr for automatic exam digitalization (OBE)
 - real-time homography estimation for sports (CV)
 - interpretable RL with variational autoencoders and decision trees
 - robotics on Raspberry Pi with camera + motor IO
-- dashboard explanation for tree-ensemble models
 - tucker-based CNN compression
 
 ### 📬 how to reach me: 
