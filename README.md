@@ -1,5 +1,5 @@
 <h1 align="center">pedro tonso</h1>
-<p align="center">statistics · neuroscience · deep learning 🧠</p>
+<p align="center">statistics · deep learning · robotics 🧠</p>
 
 I build tools at the edge of computer vision, representation learning and reinforcement learning, mostly as reusable frameworks and CLIs.
 
