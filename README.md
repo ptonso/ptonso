@@ -6,6 +6,7 @@ I build tools at the edge of computer vision, representation learning and reinfo
 ### things I'm building
 - [**teia**](https://github.com/ptonso/teia): config-as-graph deep-learning runtime on Hydra + Lightning (`pip install pyteia`)
 - [**cvsuite**](https://github.com/ptonso/cv-suite): one CLI for dataset conversion, auto-labeling (SAM 3, Grounding DINO), VLM captioning, OCR and diffusion
+- [**parla**](https://github.com/ptonso/parla): agent-first writing tool for papers, CVs, talks and diagrams, built from your own guides and corrections (`pip install parla`)
 - interpretable RL with variational autoencoders and decision trees
 - explainability dashboards for tree-ensemble models
 - vision-language model benchmarking
